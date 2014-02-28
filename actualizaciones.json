@@ -54,7 +54,7 @@
 					"htmltopdf/library.jap", 
 					
 					"htmltopdf/w/p/glib-2.dll",
-					""
+					"htmltopdf/w/p/gmodule-2.dll"
 				]
 			},
 			

@@ -1,0 +1,78 @@
+[
+	
+	{
+		"fecha":"2014-02-28T05:00:00.000Z",
+		"dir":"/eCuRie/28022014/",
+		"files": [
+			
+			"all":[
+			
+				"bin/application.js",
+				"bin/produccion.js",
+				"bin/productos.js",
+				"bin/miempresa.js",
+				"bin/modulos.js",
+				"bin/sesion.js",
+				"bin/usuarios.js",
+				"bin/facturacion.js",
+				
+				"page2/style.css",
+				
+				"page2/login.js",
+				"page2/usuarios.html",
+				"page2/menu.html",
+				"page2/entradasysalidas.html",
+				"page2/impresiones.html",
+				"page2/miempresa.html",
+				
+				"page2/js/menu.js",
+				"page2/js/jxshell-client.js",
+				
+				"page2/js/application.js",
+				"page2/js/modules/modulos.js",
+				"page2/js/modules/miempresa.js",
+				"page2/js/modules/produccion.js",
+				"page2/js/modules/productos.js",
+				"page2/js/modules/inventario.js",
+				"page2/js/modules/impresiones.js",
+				"page2/js/modules/maquinas.js",
+				"page2/js/modules/usuarios.js",
+				
+				
+			],
+			
+			"windows":{
+				"appdata": [
+					"chrome/serverg.cs",
+					"chrome/library.jap",
+					"chrome/asm/NHttp.dll",
+					"chrome/asm/NHttp.dll.mdb",
+					"js/jwc/library.cs",
+					"js/fs/library.cs",
+					"js/htmltopdf/library.jap",
+					"js/htmltopdf/library.cs",
+					"htmltopdf/library.jap", 
+					
+					"htmltopdf/w/p/glib-2.dll",
+					""
+				]
+			},
+			
+			"delete":{
+				"dirs":{
+					"appdata":[
+						"chrome/__jxshell__cache",
+						"htmltopdf/__jxshell__cache",
+						"js/jwc/__jxshell__cache",
+						"js/fs/__jxshell__cache",
+						"js/htmltopdf/__jxshell__cache"
+					]
+				}
+			}
+			
+			
+		]
+	}
+	
+	
+]
